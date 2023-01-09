@@ -3,6 +3,10 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
+- url: /logistics/
+  name: Logistics
+  icon_class: fas fa-clipboard-list
+
 - url: /schedule/
   name: Schedule
   icon_class: fas fa-calendar-alt
